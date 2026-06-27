@@ -1,6 +1,6 @@
 # 7006SCN — NHS Prescription Cost Prediction
 
-## Student: [Your Initials] | [Your Student ID]
+## Student: Firdous Khilji | 16943920
 ## Module: Machine Learning and Big Data (7006SCN) — 2526MAYJUL
 
 ## Project Overview
